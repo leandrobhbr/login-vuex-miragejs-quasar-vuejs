@@ -1,4 +1,3 @@
-// import { create } from 'core-js/fn/object'
 import { createServer, Model, Response } from 'miragejs'
 
 export function makeServer ({ environment = 'development' } = {}) {
