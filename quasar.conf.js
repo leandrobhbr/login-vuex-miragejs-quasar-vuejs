@@ -119,9 +119,9 @@ module.exports = function ( ctx ) {
       workboxPluginMode: 'GenerateSW', // 'GenerateSW' or 'InjectManifest'
       workboxOptions: {}, // only for GenerateSW
       manifest: {
-        name: 'Start Consig Checkout',
-        short_name: 'Start Consig Checkout',
-        description: 'Start Consig Checkout',
+        name: 'Quasar Login Vuex',
+        short_name: 'Quasar Login Vuex',
+        description: 'Quasar Login Vuex',
         display: 'standalone',
         orientation: 'portrait',
         background_color: '#ffffff',
@@ -186,7 +186,7 @@ module.exports = function ( ctx ) {
       builder: {
         // https://www.electron.build/configuration/configuration
 
-        appId: 'startconsig-checkout'
+        appId: 'quasar-login-vuex'
       },
 
       // More info: https://quasar.dev/quasar-cli/developing-electron-apps/node-integration
