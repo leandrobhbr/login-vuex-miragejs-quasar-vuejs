@@ -1,12 +1,12 @@
-# Login Vuex with Miragejs
+# Quasar - Login Vuex with Miragejs
 
 Simple example of login with Vuex persisting in Local Storage. Using Quasar Vuejs and api Miragejs
 
-[![N|Solid](https://raw.githubusercontent.com/leandrobhbr/login-vuex-miragejs-quasar-vuejs/master/docs/quasar1.png?raw=true)]
+![N|Solid](https://raw.githubusercontent.com/leandrobhbr/login-vuex-miragejs-quasar-vuejs/master/docs/quasar1.png?raw=true)
 
-[![N|Solid](https://raw.githubusercontent.com/leandrobhbr/login-vuex-miragejs-quasar-vuejs/master/docs/quasar2.png?raw=true)]
+![N|Solid](https://raw.githubusercontent.com/leandrobhbr/login-vuex-miragejs-quasar-vuejs/master/docs/quasar2.png?raw=true)
 
-[![N|Solid](https://raw.githubusercontent.com/leandrobhbr/login-vuex-miragejs-quasar-vuejs/master/docs/quasar3.png?raw=true)]
+![N|Solid](https://raw.githubusercontent.com/leandrobhbr/login-vuex-miragejs-quasar-vuejs/master/docs/quasar3.png?raw=true)
 
 ## Install the dependencies
 ```bash
