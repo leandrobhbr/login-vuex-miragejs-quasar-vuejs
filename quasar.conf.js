@@ -21,7 +21,9 @@ module.exports = function ( ctx ) {
     boot: [
       'i18n',
       'axios',
-      'mirage'
+      'mirage',
+      /* 'persist-vuex', */ // session storage
+      'persist-vuex-crypto' // local storage crypto
     ],
 
     // https://quasar.dev/quasar-cli/quasar-conf-js#Property%3A-css

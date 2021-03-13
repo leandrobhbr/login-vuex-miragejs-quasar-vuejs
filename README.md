@@ -10,6 +10,8 @@ Simple example of login with Vuex persisting in Local Storage. Using Quasar Vuej
 
 ![N|Solid](https://raw.githubusercontent.com/leandrobhbr/login-vuex-miragejs-quasar-vuejs/master/docs/quasar4.png?raw=true)
 
+![N|Solid](https://raw.githubusercontent.com/leandrobhbr/login-vuex-miragejs-quasar-vuejs/master/docs/quasar5.png?raw=true)
+
 ## Install the dependencies
 ```bash
 npm install
